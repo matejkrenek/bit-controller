@@ -1,0 +1,10 @@
+{
+    "cSpell.enabled": false,
+    "files.exclude": {
+        "build/": true
+    },
+    "files.associations": {
+        "stm8s.h": "c",
+        "__assert__.h": "c"
+    }
+}
